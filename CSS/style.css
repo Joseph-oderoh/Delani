@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.brand span{
+    font-style: italic;
+    color: white;
+    font-size: 50px;
+}
+
+.nv1 a{
+     text-decoration: none;
+     font-weight: 600;
+}
