@@ -82,7 +82,7 @@
           var email = $("input#email").val();
           var message = $("textarea#delani").val();
           if ($("input#name").val() && $("input#email").val()){
-            alert (name + ",  your message received. Thank you for reaching out to us.");
+            // alert (name + ",  your message received. Thank you for reaching out to us.");
           }
           else {
             alert("Please enter your name and email!");
