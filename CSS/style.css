@@ -49,3 +49,14 @@
     text-align: center;
     padding-bottom: 20px;
 }
+
+.service{
+    margin-top: 200px;
+    background-image: url("../images/background_images/s_image.jpg");
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+   
+}
