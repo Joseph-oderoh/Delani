@@ -8,7 +8,7 @@
 This Project is to help us practice and understand better the use of JQuery CSS and bootstrap learned so far
 ## Setup/Installation Requirements
 * You will first need to get into a browser or access to one most prefered chrome browser. 
-* Navigate to GitHub locate the live link  on the About section.
+* Navigate to GitHub locate the live link  on the About section https://joseph-oderoh.github.io/Delani/.
 * Next click on the Delani live link to get a glimpse on what we have to offer.
 * This will direct you to a new tab displaying the details of the portforlio.
 
@@ -16,7 +16,7 @@ This Project is to help us practice and understand better the use of JQuery CSS 
 ## Installation
 * You could also navigate to the git repository 
 * Git clone  the Delani repo which will be automatically saved in your local machine.
-* Then open with  text editor of your own chosing
+* Then open with  text editor of your own chosing 
 ## Known Bugs
 * Some of the functionality are not working proper you might encounter bugs.
 * This may be sorted in the near future as we progress 
