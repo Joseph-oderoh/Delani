@@ -78,7 +78,7 @@
     <div class="row">
       <div class="col-md-4">
           <div id="dev_imag">
-            <img src="/images/services_icons/design_icon.png" id="desn1" alt="design">
+            <img src="./images/services_icons/design_icon.png" id="desn1" alt="design">
             <!-- <h1>Design</h1> -->
           </div>
         <div id="design" class="none">
@@ -101,7 +101,7 @@
       </div>
       <div class="col-md-4">
         <div id="product-image">
-            <img src="images/services_icons/product_icon.png" id="prod" alt="products">
+            <img src="./images/services_icons/product_icon.png" id="prod" alt="products">
             <!-- <h1>Product Managment</h1> -->
           </div>
         <div id="product" class="none">
@@ -133,7 +133,7 @@
             <img src="./images/portfolio/work1.jpg" alt="work4">
             <p id="overlay4" class="text">jim Carrey</p>
           </div>
-        </div>
+        </div> <br>
         <div class="row" id="portfolio">
             <div class="col-md-3" id="good">
               <img src="./images/portfolio/work5.jpg" alt="work1">
@@ -155,15 +155,15 @@
     </div>
     <div class="container-fluid contacts" id="Contacts">
         <h1 class="heading">Contacts</h1>
-        <form action="" id="form" class="frm container">
+        <form action="https://formspree.io/f/xnqwzagn" method="post" id="form" class="frm container">
             <div class="row ">
                 <div class="col-md-6">
-                    <input type="text" id="name" placeholder="name"   >
+                    <input type="text" id="name" placeholder="name" name="name"   required>
                 </div>
                 <div class="col-md-6">
-                    <input type="email" id="email" placeholder="email">
+                    <input type="email" id="email" placeholder="email" name="email" required>
                 </div>
-                <textarea class="cnt" name="Delani" id="delani" cols="10" rows="10"></textarea>
+              <textarea name="message" id="tarea" cols="30" rows="10" ></textarea>
     
             </div>
             <button type="submit" class="btn btn-primary" id="btn">submit</button>

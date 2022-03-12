@@ -77,8 +77,7 @@
       });
 
       $(document).ready(function(){
-        $("#form").submit(function(event){
-          event.preventDefault();
+        $("#form").submit(function(){
           var name = $("input#name").val();
           var email = $("input#email").val();
           var message = $("textarea#delani").val();

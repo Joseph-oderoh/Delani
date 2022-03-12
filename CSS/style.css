@@ -135,7 +135,7 @@
 
 
 #overlay4{
-    margin-left: 60%;
+    margin-left: 75%;
     position: absolute;
     font-weight: bold;
     width: 23%;
@@ -154,13 +154,12 @@
     font-weight: bold;
     color: black;
     display: none;
-   top: 0;
+    top: 0;
    left: 12px;
     background-color: rgba(241, 236, 236, 0.377);
 }
 
 #overlay6{
-    margin-left: 25%;
     position: absolute;
     font-weight: bold;
     width: 23%;
