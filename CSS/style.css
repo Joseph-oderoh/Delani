@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: content-box;
+    box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -34,4 +34,18 @@
 
 .welcome p{
     margin-bottom: 200px;
+}
+
+.about{
+    padding-top: 50px;
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+    padding-top: 150px;
+   
+}
+
+.about h1{
+    text-align: center;
+    padding-bottom: 20px;
 }
