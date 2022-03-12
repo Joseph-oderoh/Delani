@@ -79,3 +79,111 @@
     max-width: 100%;
     max-height: 100%;
   }
+
+
+#portfolio{
+    position: relative;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+#overlay{
+    position: absolute;
+    color: black;
+    display: none;
+   top: 50px;
+   left: 50px;
+   font-weight: bold;
+   font-size: 20px;
+    background-color: rgba(241, 236, 236, 0.377);
+}
+
+#overlay2{
+    margin-left: 25%;
+    position: absolute;
+    font-weight: bold;
+    display: none;
+    color: black;
+   top: 50px;
+   left: 50px;
+    background-color: rgba(241, 236, 236, 0.411);
+}
+
+#overlay3{
+    margin-left: 50%;
+    position: absolute;
+    font-weight: bold;
+    display: none;
+    color: black;
+   top: 50px;
+   left: 50px;
+    background-color: rgba(241, 236, 236, 0.377);
+}
+
+
+#overlay4{
+    margin-left: 60%;
+    position: absolute;
+    font-weight: bold;
+    color: black;
+    display: none;
+   top: 50px;
+   left: 200px;
+    background-color: rgba(241, 236, 236, 0.377);
+}
+
+#overlay5{
+    position: absolute;
+    font-weight: bold;
+    color: black;
+    display: none;
+   top: 50px;
+   left: 50px;
+    background-color: rgba(241, 236, 236, 0.377);
+}
+
+#overlay6{
+    margin-left: 25%;
+    position: absolute;
+    font-weight: bold;
+    display: none;
+    color: black;
+   top: 50px;
+   left: 50px;
+    background-color: rgba(241, 236, 236, 0.377);
+}
+
+#overlay7{
+    margin-left: 50%;
+    position: absolute;
+    font-weight: bold;
+    display: none;
+    color: black;
+   top: 50px;
+   left: 50px;
+    background-color: rgba(241, 236, 236, 0.377);
+}
+
+#overlay8{
+    margin-left: 75%;
+    position: absolute;
+    font-weight: bold;
+    display: none;
+    color: black;
+   top: 50px;
+   left: 50px;
+    background-color: rgba(241, 236, 236, 0.377);
+}
+
+
+
+
+
+
+
+
+
+
+
