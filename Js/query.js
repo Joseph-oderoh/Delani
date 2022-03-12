@@ -10,6 +10,23 @@
         $("#product").toggle();
     });
 
+    $("#dev").click(function(){
+        $("#development-image").slideDown('1500').hide('1000');
+        $("#development").show('1500');
+      });
+    $("#development").click(function(){
+        $("#development").slideUp('1500');
+        $("#development-image").slideDown('1500');
+      });
+
+      $("#desn1").click(function(){
+        $("#desn1").slideDown('1500').hide('1000');
+        $("#desn1").show('1500');
+      });
+    $("#design").click(function(){
+        $("#design").slideUp('1500');
+        $("#design-image").slideDown('1500');
+      });
   
     $("#BlvckEXp").mouseover(function(){
         $("#overlay").show();
