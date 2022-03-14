@@ -94,6 +94,7 @@
 
 
 #overlay{
+    padding: 50px;
     position: absolute;
     color: black;
     display: none;
@@ -107,6 +108,7 @@
 }
 
 #overlay2{
+    padding: 50px;
     margin-left: 25%;
     position: absolute;
     font-weight: bold;
@@ -121,6 +123,7 @@
 }
 
 #overlay3{
+    padding: 50px;
     margin-left: 50%;
     position: absolute;
     font-weight: bold;
@@ -135,6 +138,7 @@
 
 
 #overlay4{
+    padding: 50px;
     margin-left: 75%;
     position: absolute;
     font-weight: bold;
@@ -148,6 +152,7 @@
 }
 
 #overlay5{
+    padding: 50px;
     position: absolute;
     width: 23%;
     height: 100%;
@@ -160,6 +165,7 @@
 }
 
 #overlay6{
+    padding: 50px;
     position: absolute;
     font-weight: bold;
     width: 23%;
@@ -172,6 +178,7 @@
 }
 
 #overlay7{
+    padding: 50px;
     margin-left: 50%;
     position: absolute;
     font-weight: bold;
@@ -185,6 +192,7 @@
 }
 
 #overlay8{
+    padding: 50px;
     margin-left: 75%;
     position: absolute;
     font-weight: bold;
@@ -214,10 +222,6 @@
     border: 2px solid black;
  }
 
-input{
-    margin-bottom: 50px;
-    border: 2px solid black;
-}
 .btn{
     margin-top: 30px;
 }
@@ -227,6 +231,21 @@ footer{
     height: 20vh;
 }
 
+
+@media only screen and (max-width: 500px){
+    .portfolio{
+        width: 100%;
+        height: 100%;
+        flex-direction: row;
+        background-color: grey;
+
+    }
+    .col-md-3 img{
+        max-width: 50%;
+        max-height: 100%;
+      }
+    
+}
 
 
 
